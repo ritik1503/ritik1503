@@ -1,29 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
-Working at Google as an SDE.
-I am skilled in Java, Python, C++, JavaScript, PostgreSQL
-Tech and tools I am dealing with everyday
-Language: Java, Python, TypeScript, JavaScript, Kotlin
-Backend: Flask, Springboot
-Frontend: HTML, CSS, React
-Database: PostgreSQL
-Others: Google Cloud, Jenkins
-I’m looking to collaborate on techs I mentioned above and below.
-Finding peer to learn things together? Email me!!
-Trying to be consistent on Leetcode
-& currently learning SpringBoot, High Level Design, Ukulele
+## 🙋‍♂️ About Me
+I'm Ritik Verma, a passionate developer specializing in Java, Spring Boot, React, and Full-Stack development. Currently exploring advanced backend architectures and cloud technologies.
 
-<!--
-**ritik1503/ritik1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Spring Boot and React Projects**  
+- 🌱 I’m currently learning **System Design and Advanced React**  
+- 💬 Ask me about **Java, Spring Boot, React, and Competitive Programming**  
+- 📫 How to reach me: [ritikz1234@gmail.com](mailto:ritikz1234@gmail.com)  
+- ⚡ Fun fact: I love problem-solving and coffee! ☕
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skills
+- **Programming Languages**: Java, JavaScript, Python  
+- **Frameworks & Libraries**: Spring Boot, React.js, Hibernate  
+- **Tools & Platforms**: GitHub, Docker, Jenkins, AWS  
+- **Other Skills**: REST APIs, Database Management, System Design  
+
+---
+
+
+## 🏆 Achievements
+- 🌟 **10+ Contributions** this year  
+- 🌟 Built a robust **Spring Boot-React application** for scalable solutions  
+- 🌟 **Open-source contributor**  
+
+---
+
+## 🔗 Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ritik-verma-4143181b6))  
+
