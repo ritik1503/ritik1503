@@ -28,5 +28,5 @@ I'm Ritik Verma, a passionate developer specializing in Java, Spring Boot, React
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ritik-verma-4143181b6))  
+- [LinkedIn](https://www.linkedin.com/in/ritik-verma-4143181b6)
 
