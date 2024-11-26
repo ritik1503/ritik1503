@@ -18,7 +18,8 @@ I'm Ritik Verma, a passionate developer specializing in Java, Spring Boot, React
 - **Other Skills**: REST APIs, Database Management, System Design  
 
 ---
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ritik1503.ritik1503)
+![Profile Views](https://camo.githubusercontent.com/0cf7625af91e15e06312c4ef77d5ed8cc10a5e0a76048d4c6f3834bb4e8c29c4/68747470733a2f2f686974732e73682f6769746875622e636f6d2f726974696b313530332e737667)
+
 
 
 
