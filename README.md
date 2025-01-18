@@ -18,7 +18,8 @@ I'm Ritik Verma, a passionate developer specializing in Java, Spring Boot, React
 - **Other Skills**: REST APIs, Database Management, System Design  
 
 ---
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ritik1503)
+![Profile Views](https://komarev.com/ghpvc/?username=ritik1503&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 
